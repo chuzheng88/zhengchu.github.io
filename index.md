@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zheng Chu Pages
 
 You can use the [editor on GitHub](https://github.com/chuzheng88/zhengchu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
