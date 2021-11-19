@@ -1,4 +1,7 @@
-## Welcome to Zheng Chu Pages
+## Welcome to Zheng Chu's Pages
+
+You can only download my CV form here because my webset is under construction.
+
 
 You can use the [editor on GitHub](https://github.com/chuzheng88/zhengchu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
