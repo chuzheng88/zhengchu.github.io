@@ -1,6 +1,6 @@
 ## Welcome to Zheng Chu's Pages
 
-You can only download my CV form here because my webset is under construction.
+You can only download my CV form [here](https://github.com/chuzheng88/zhengchu.github.io/blob/gh-pages/Chuz-CV-EN%20.pdf) because my webset is under construction.
 
 
 You can use the [editor on GitHub](https://github.com/chuzheng88/zhengchu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
